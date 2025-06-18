@@ -170,12 +170,11 @@ sections:
         title: '"I NEED IT TO LIVE"'
         price: Custom
         details: (Trust)
-        description: >+
+        description: >
           Now that you've come to terms with your love for Teablet, ***YOU***
-          get to decide exactly how much you want from us. Any Quantity can be
+          get to decide exactly how much you want from us. Any quantity can be
           ordered at your discretion, pricing will scale according to quantity
-          with a starting price of $9 per container of 10 Teablets.
-
+          with a starting price of ***$9*** per container of ***10 Teablets***.
         features:
           - Feature one
           - Feature two
