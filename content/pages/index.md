@@ -178,7 +178,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/image_2025-06-19_033745246.png
+          url: /images/image_2025-06-19_034139252.png
           altText: Pricing plan 3
         actions:
           - type: Button
