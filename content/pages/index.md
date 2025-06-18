@@ -113,8 +113,7 @@ sections:
           you to take Teablet for a test drive before you come back to buy more.
 
           And you ***will*** come back to buy more.
-        features:
-          - Feature four
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
