@@ -148,7 +148,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/image_2025-06-19_033510736.png
           altText: Pricing plan 2
         actions:
           - type: Button
