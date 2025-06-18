@@ -6,7 +6,6 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/wellster-logo.svg
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
