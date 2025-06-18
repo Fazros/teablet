@@ -137,7 +137,7 @@ sections:
       - type: PricingPlan
         title: Professional
         price: $99
-        details: Cash On Delivery Works Too
+        details: Your Credit Card Info
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
