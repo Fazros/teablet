@@ -239,7 +239,7 @@ sections:
         title: >-
           “Quote from some important person goes right here. I love using
           Netlify.”
-        tagline: Testimonial 2
+        tagline: We don't glaze our own product. Listen to our customers instead;
         subtitle: 'Zulfikar Ali Bhutto, Karachi'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
