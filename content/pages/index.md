@@ -212,10 +212,9 @@ sections:
           everywhere!”
         tagline: We don't glaze our own product. Listen to our customers instead;
         subtitle: 'Maria Hossain, Cox''s Bazar'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Sheesh man, love the product glaze but you might wanna get that
+          caffeine addiction in check, Maria. We're rooting for you!
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png
