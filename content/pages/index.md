@@ -135,7 +135,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
+        title: '"Okay, I Kinda Like It"'
         price: $99
         details: Your Credit Card Information
         description: >-
