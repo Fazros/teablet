@@ -138,9 +138,10 @@ sections:
         title: '"Okay, I Kinda Like It"'
         price: $99.99
         details: Your Credit Card Information
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Getting a little greedy now, are we? No worries. Teablet's got you
+          covered regardless of how bad your tea cravings and caffeine addiction
+          gets. ***Ready to step it up a notch? ;)***
         features: []
         image:
           type: ImageBlock
