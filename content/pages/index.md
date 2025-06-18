@@ -136,7 +136,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: '"Okay, I Kinda Like It"'
-        price: $100
+        price: $99
         details: Your Credit Card Information
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
