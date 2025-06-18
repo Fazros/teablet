@@ -207,8 +207,9 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Teablet changed my life, I've never been able to humour my caffeine
+          addiction this easily before! Now I can be an addict anywhere and
+          everywhere!”
         tagline: We don't glaze our own product. Listen to our customers instead;
         subtitle: 'Maria Hossain, Cox''s Bazar'
         text: >-
