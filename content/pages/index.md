@@ -69,7 +69,7 @@ sections:
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
-        url: /images/sanity-logo.svg
+        url: /images/image_2025-06-19_024726676.png
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
