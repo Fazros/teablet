@@ -18,7 +18,7 @@ sections:
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/image_2025-06-19_023715507.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
