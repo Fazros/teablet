@@ -49,7 +49,7 @@ sections:
     subtitle: Tea like never before
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/image_2025-06-19_024649920.png
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
