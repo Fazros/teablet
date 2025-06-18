@@ -341,7 +341,7 @@ sections:
       type: Badge
       label: Contact Us
       color: text-neutral
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
