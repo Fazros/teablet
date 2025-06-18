@@ -103,7 +103,7 @@ sections:
     plans:
       - type: PricingPlan
         title: '"I Just Wanna Try It"'
-        price: Free
+        price: $20
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
