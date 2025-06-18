@@ -114,7 +114,6 @@ sections:
 
           And you ***will*** come back to buy more.
         features:
-          - Feature three
           - Feature four
         image:
           type: ImageBlock
