@@ -11,6 +11,7 @@ sections:
       - type: ImageBlock
         altText: Telus logo
         elementId: ''
+        url: /images/image_2025-06-19_024557929.png
       - type: ImageBlock
         altText: Contentful logo
         elementId: ''
