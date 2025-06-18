@@ -49,7 +49,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Our customersOur
+    subtitle: Tea like never before
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
