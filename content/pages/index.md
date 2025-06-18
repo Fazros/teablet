@@ -177,7 +177,6 @@ sections:
           with a starting price of ***$9*** per container of ***10 Teablets***.
         features:
           - Feature two
-          - Feature three
           - Feature four
           - Feature five
         image:
