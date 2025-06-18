@@ -141,7 +141,9 @@ sections:
         description: >
           Getting a little greedy now, are we? No worries. Teablet's got you
           covered regardless of how bad your tea cravings and caffeine addiction
-          gets. ***Ready to step it up a notch? ;)***
+          gets. Get your hands on ***10 WHOLE containers*** with ***10 Teablets
+          each***, for a grand total of ***100 Teablets*** just for
+          ***`$99.99`***. ***Ready to step it up a notch? ;)***
         features: []
         image:
           type: ImageBlock
