@@ -105,9 +105,14 @@ sections:
         title: '"I Just Wanna Try It"'
         price: $20
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Not sure if you want to commit? Here's a small trial of our product to
+          help you decide!
+
+          For only $20 you can get 2 containers with 10 tablets each, allowing
+          you to take Teablet for a test drive before you come back to buy more.
+
+          And you ***will*** come back to buy more.
         features:
           - Feature one
           - Feature two
