@@ -169,7 +169,7 @@ sections:
       - type: PricingPlan
         title: Enterprise
         price: Custom
-        details: We Won't Steal Your Credit Card Info
+        details: (Trust)
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
