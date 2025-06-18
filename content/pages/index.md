@@ -167,7 +167,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: '"TEABLET FLOWS THROUGH MY VEINS"'
+        title: '"I NEED IT TO LIVE"'
         price: Custom
         details: (Trust)
         description: >-
