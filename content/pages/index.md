@@ -104,7 +104,7 @@ sections:
       - type: PricingPlan
         title: '"I Just Wanna Try It"'
         price: $20
-        details: We Wont
+        details: We Wont Steal
         description: >
           Not sure if you want to commit? Here's a small trial of our product to
           help you decide!
