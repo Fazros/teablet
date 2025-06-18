@@ -340,7 +340,7 @@ sections:
     badge:
       type: Badge
       label: Contact Us
-      color: text-primary
+      color: text-neutral
     colors: bg-light-fg-dark
 seo:
   metaTitle: Home - Demo site
