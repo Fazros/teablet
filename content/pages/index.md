@@ -137,7 +137,7 @@ sections:
       - type: PricingPlan
         title: Professional
         price: $99
-        details: per month
+        details: Cash On Delivery works too
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
