@@ -278,5 +278,5 @@ seo:
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
-isDraft: true
+isDraft: false
 ---
