@@ -290,11 +290,17 @@ sections:
       text: Want Access To Our Newest Products First?
       color: text-dark
     subtitle: Then give us information to sell!
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      ***`DISCLAIMER: Most of the websites you provide your email and name to
+      generally tend to sell that information to third party companies which
+      then sell and distribute your credentials to other companies trying to
+      sell you products or even trying to scam you. This is the very reason why
+      a SPAM folder exists in your mail inbox. Please think twice before giving
+      any website any of your information.`***
+
+      We're trustworthy though, so sign right up to get a heads up regarding new
+      product launches. We may or may not have different flavored Teablets
+      coming out soon. Keep your eyes peeled..
     actions: []
     media:
       type: FormBlock
