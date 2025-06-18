@@ -237,8 +237,10 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+          “Teablet has been my fuel in my political endeavors throughout my
+          country (as well as my attempts to annex others). Without Teablet I
+          don't think I'd be alive today. Sometimes I think Teablet has replaced
+          the blood running through my veins.”
         tagline: We don't glaze our own product. Listen to our customers instead;
         subtitle: 'Zulfikar Ali Bhutto, Karachi'
         text: >-
