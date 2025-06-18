@@ -243,10 +243,9 @@ sections:
           the blood running through my veins.”
         tagline: We don't glaze our own product. Listen to our customers instead;
         subtitle: 'Zulfikar Ali Bhutto, Karachi'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Wait... This isn't the Bhutto I think it is, right? Welp, either way,
+          as long as he's a happy customer I guess...
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
