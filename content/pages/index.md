@@ -176,7 +176,6 @@ sections:
           ordered at your discretion, pricing will scale according to quantity
           with a starting price of ***$9*** per container of ***10 Teablets***.
         features:
-          - Feature two
           - Feature four
         image:
           type: ImageBlock
