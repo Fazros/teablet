@@ -137,7 +137,7 @@ sections:
       - type: PricingPlan
         title: Professional
         price: $99
-        details: Your Credit Card Info
+        details: Your Credit Card Information
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
