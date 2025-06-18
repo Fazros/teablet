@@ -80,7 +80,7 @@ sections:
         altText: Rangle logo
         elementId: ''
     elementId: ''
-    motion: static
+    motion: move-to-left
     colors: bg-neutral-fg-dark
     styles:
       self:
