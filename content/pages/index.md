@@ -114,7 +114,6 @@ sections:
 
           And you ***will*** come back to buy more.
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
