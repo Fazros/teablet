@@ -109,8 +109,9 @@ sections:
           Not sure if you want to commit? Here's a small trial of our product to
           help you decide!
 
-          For only $20 you can get 2 containers with 10 tablets each, allowing
-          you to take Teablet for a test drive before you come back to buy more.
+          For only ***`$20`*** you can get ***2 containers*** with ***10 tablets
+          each***, allowing you to take Teablet for a test drive before you come
+          back to buy more.
 
           And you ***will*** come back.
         features: []
