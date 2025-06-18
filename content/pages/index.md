@@ -112,7 +112,7 @@ sections:
           For only $20 you can get 2 containers with 10 tablets each, allowing
           you to take Teablet for a test drive before you come back to buy more.
 
-          And you ***will*** come back to buy more.
+          And you ***will*** come back.
         features: []
         image:
           type: ImageBlock
