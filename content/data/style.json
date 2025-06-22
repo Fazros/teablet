@@ -1,11 +1,11 @@
 {
-    "light": "#ffffff",
-    "dark": "#4A4A4A",
-    "neutral": "#E8E8EB",
-    "neutralAlt": "#DCDCDC",
-    "primary": "#2a2a2a",
-    "fontBody": "sans",
-    "fontHeadlines": "sans",
+    "light": "#2e2c3f",
+    "dark": "#2e2c3f",
+    "neutral": "#fff6d8",
+    "neutralAlt": "#fff6d8",
+    "primary": "#fff6d8",
+    "fontBody": "serif",
+    "fontHeadlines": "serif",
     "h1": {
         "size": "6xl",
         "weight": "normal",
@@ -55,9 +55,9 @@
         "type": "ThemeStyleHeading"
     },
     "buttonPrimary": {
-        "weight": "normal",
-        "case": "none",
-        "letterSpacing": "normal",
+        "weight": "medium",
+        "case": "capitalize",
+        "letterSpacing": "wide",
         "borderRadius": "DEFAULT",
         "shadow": "none",
         "horizontalPadding": 30,
