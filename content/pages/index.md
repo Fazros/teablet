@@ -203,7 +203,7 @@ sections:
       subtitle:
         textAlign: center
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Customer Reviews
     items:
       - type: FeaturedItem
         title: >-
