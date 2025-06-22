@@ -217,7 +217,7 @@ sections:
           caffeine addiction in check, Maria. We're rooting for you!
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/images (1).jfif
           altText: Maria Walters
           styles:
             self:
