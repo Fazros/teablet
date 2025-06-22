@@ -196,7 +196,7 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
