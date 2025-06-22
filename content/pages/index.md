@@ -248,7 +248,7 @@ sections:
           as long as he's a happy customer I guess...
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/shutterstock_2331893385.jpg
           altText: Jane Doe
           styles:
             self:
