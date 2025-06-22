@@ -126,7 +126,7 @@ sections:
             icon: arrowRight
             iconPosition: right
             style: secondary
-        colors: bg-neutral-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -157,7 +157,7 @@ sections:
             icon: arrowRight
             iconPosition: right
             style: secondary
-        colors: bg-neutral-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -187,7 +187,7 @@ sections:
             icon: arrowRight
             iconPosition: right
             style: secondary
-        colors: bg-neutral-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -196,7 +196,7 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
@@ -217,7 +217,7 @@ sections:
           caffeine addiction in check, Maria. We're rooting for you!
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/images (1).jfif
           altText: Maria Walters
           styles:
             self:
@@ -248,13 +248,13 @@ sections:
           as long as he's a happy customer I guess...
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/shutterstock_2331893385.jpg
           altText: Jane Doe
           styles:
             self:
               borderRadius: full
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -330,7 +330,7 @@ sections:
         label: Submit
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         showIcon: true
       elementId: contact-form
       styles:
@@ -348,7 +348,7 @@ sections:
       type: Badge
       label: Contact Us
       color: text-dark
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
